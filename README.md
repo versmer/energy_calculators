@@ -4,5 +4,5 @@ This projects implies translating existant energy calculators on EnergyTools web
 
 Part 1. AHU constant speed on/off 
 a) data resampling 
-   -- direct measurements
-   -- BAS
+-- direct measurements (using df)
+-- BAS (using shark module)
